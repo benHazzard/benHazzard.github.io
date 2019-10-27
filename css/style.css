@@ -295,7 +295,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .about_person_area .person_img img {
-  max-width: 100%;
+  max-width: 25%;
 }
 
 .about_person_area .person_img .download_btn {
@@ -1126,11 +1126,11 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .left_contact_details p + p {
-  padding-bottom: 20px;
+  padding-bottom: 60px;
 }
 
 .left_contact_details .media {
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 .left_contact_details .media .media-left {
@@ -1169,6 +1169,9 @@ body, p, h1, h2, h3, h4, h5, h6 {
 .left_contact_details .media:hover .media-left i {
   background: transparent;
   color: #fec608;
+}
+.left_contact_details_overlap {
+    padding-bottom: 50px;
 }
 
 .contact_from_area .form-group {
